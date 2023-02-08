@@ -1,0 +1,6 @@
+# suppress all subdirectories
+*/
+
+# except delegate to a/.gitignore
+!/a/
+!/a/**
